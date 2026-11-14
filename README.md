@@ -1,6 +1,4 @@
-# Duke Coursework
-
-My coursework from Duke University, currently covering **CS 201 (Programming in Java)**.
+# CS201 Java Programming APTs
 
 ## What's in this repo
 
